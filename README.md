@@ -1,22 +1,6 @@
-### Hi there 👋
+### Hello World 👋
 
-### Hi
-
-### Hi
-
-### Hi
-
-### Hi
-
-### Hi
-
-### Hi
-
-### Hi
-
-### Hi
-
-### Hi
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/limsenkeat)
 
 <!--
 **limsenkeat/limsenkeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
