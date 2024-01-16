@@ -1,10 +1,7 @@
 ### Hello World 👋
-
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/limsenkeat)
 ***
-
-<img width="180" align='left' src="https://i1.wp.com/www.senkeat.com/wp-content/uploads/2020/07/limsenkeat.png"> ![Lim Sen Keat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=limsenkeat&hide=["stars"]&theme=dark&show_icons=true)
-
+ ![Lim Sen Keat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=limsenkeat&hide=["stars"]&theme=dark&show_icons=true)
 
 
 
