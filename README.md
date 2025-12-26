@@ -1,4 +1,4 @@
-![](https://green-wall.leoku.dev/api/og/share/limsenkeat?theme=Violet)
+![](https://green-wall.leoku.dev/api/og/share/limsenkeat)
 
 <!--
 **limsenkeat/limsenkeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
